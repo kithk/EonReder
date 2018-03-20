@@ -74,7 +74,8 @@
     <author><name>Tomny Wong</name>
       <uri>//plus.google.com/115254841863469348783</uri>
       <email>noreply@blogger.com</email>
-      <gd:image rel='//schemas.google.com/g/2005#thumbnail' width='32' height='32' src=''/></author>
+      <gd:image rel='//schemas.google.com/g/2005#thumbnail' width='32' height='32' src=''/>
+    </author>
     <thr:total>0</thr:total>
     </entry>
     
