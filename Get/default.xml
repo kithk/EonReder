@@ -71,7 +71,11 @@
     <updated>updated 2018-03-19T00:12:57.979-07:00</updated>
     <title type='text'>MUGEN KOF WING (Free) Get it now</title>
     <content type='html'>display none : content</content>
-    <link rel='alternate' type='text/html' href='http://aondir.blogspot.com/2018/03/8017477855324430373.html' title='MUGEN KOF WING (Free) Get it now'/>
+        
+    <link rel='alternate' type='text/html' 
+          href='http://aondir.blogspot.com/2018/03/8017477855324430373.html' 
+          title='MUGEN KOF WING (Free) Get it now'/>
+        
     <author><name>Tomny Wong</name>
       <uri>//plus.google.com/115254841863469348783</uri>
       <email>noreply@blogger.com</email>
