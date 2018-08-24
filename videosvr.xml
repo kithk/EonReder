@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?user=boowe07"/>
+ <id>yt:channel:UClvCjdZJ8lQg_9Tkd7B1r5A</id>
+ <yt:channelId>UClvCjdZJ8lQg_9Tkd7B1r5A</yt:channelId>
+ <title>Video INow</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UClvCjdZJ8lQg_9Tkd7B1r5A"/>
+ <author>
+  <name>Video INow</name>
+  <uri>https://www.youtube.com/channel/UClvCjdZJ8lQg_9Tkd7B1r5A</uri>
+ </author>
+ <published>2012-07-16T09:40:47+00:00</published>
+ <entry>
+  <id>yt:video:KtH5ELb4LEI</id>
+  <yt:videoId>KtH5ELb4LEI</yt:videoId>
+  <yt:channelId>UClvCjdZJ8lQg_9Tkd7B1r5A</yt:channelId>
+  <title>Green Alien Dance - Funny Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KtH5ELb4LEI"/>
+  <author>
+   <name>Video INow</name>
+   <uri>https://www.youtube.com/channel/UClvCjdZJ8lQg_9Tkd7B1r5A</uri>
+  </author>
+  <published>2018-08-24T05:11:31+00:00</published>
+  <updated>2018-08-24T05:27:09+00:00</updated>
+  <media:group>
+   <media:title>Green Alien Dance - Funny Video</media:title>
+   <media:content url="https://www.youtube.com/v/KtH5ELb4LEI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KtH5ELb4LEI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Video BY https://goo.gl/dmwDHe</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KW5zOUEIifE</id>
+  <yt:videoId>KW5zOUEIifE</yt:videoId>
+  <yt:channelId>UClvCjdZJ8lQg_9Tkd7B1r5A</yt:channelId>
+  <title>how to create a blogger</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KW5zOUEIifE"/>
+  <author>
+   <name>Video INow</name>
+   <uri>https://www.youtube.com/channel/UClvCjdZJ8lQg_9Tkd7B1r5A</uri>
+  </author>
+  <published>2018-08-23T11:14:54+00:00</published>
+  <updated>2018-08-23T11:23:19+00:00</updated>
+  <media:group>
+   <media:title>how to create a blogger</media:title>
+   <media:content url="https://www.youtube.com/v/KW5zOUEIifE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KW5zOUEIifE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Video BY https://goo.gl/dmwDHe</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zp9Wudwlb9w</id>
+  <yt:videoId>zp9Wudwlb9w</yt:videoId>
+  <yt:channelId>UClvCjdZJ8lQg_9Tkd7B1r5A</yt:channelId>
+  <title>Beautiful china girl with dance music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zp9Wudwlb9w"/>
+  <author>
+   <name>Video INow</name>
+   <uri>https://www.youtube.com/channel/UClvCjdZJ8lQg_9Tkd7B1r5A</uri>
+  </author>
+  <published>2018-08-23T09:58:58+00:00</published>
+  <updated>2018-08-23T10:21:10+00:00</updated>
+  <media:group>
+   <media:title>Beautiful china girl with dance music</media:title>
+   <media:content url="https://www.youtube.com/v/zp9Wudwlb9w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zp9Wudwlb9w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Video BY https://goo.gl/dmwDHe</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="27"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
